@@ -29,3 +29,7 @@ REDDIT_PASS=reddit_api_account_password
 Edit lines 14-16 with the name of your target subreddit, your desired database filename, and your unique useragent for the Reddit API account.
 
 The database with your filename of choice will be created in the top level directory upon running the script for the first time.
+
+# Disclaimer
+
+I would recommend only using this script to archive to a local database on your hard drive. If you must make your old modmail archives public on the web for other members of your team, protect it heavily with passwords and 2FA.
