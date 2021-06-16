@@ -2,9 +2,9 @@
 
 Archives up to 1000 parent messages in Reddit old modmail with all replies to those messages.
 
-In its current form it only archives the last 1000 parent messages (with all replies) as I only needed about 130 or so for the only subreddit I moderate which used old modmail.
+In its current form it only archives the last 1000 parent messages (with all replies). API data does not go back past that point.
 
-If your mod team has been ride-or-die with old modmail until the bitter end you'll need to edit the script into a while loop using the "after" param to make it pull older messages.
+If your mod team has been ride-or-die with old modmail until the bitter end you'll have to find some other means to get the older stuff.
 
 # Requirements:
 
