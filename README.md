@@ -21,9 +21,9 @@ Create the Reddit API key as a personal script. I do not recommend using your ma
 
 Create a .env file in the top level directory with the following params:
 
-REDDIT_CLIENT=your_reddit_client
-REDDIT_SECRET=your_reddit_secret
-REDDIT_USERNAME=reddit_api_account_username
+REDDIT_CLIENT=your_reddit_client  
+REDDIT_SECRET=your_reddit_secret  
+REDDIT_USERNAME=reddit_api_account_username  
 REDDIT_PASS=reddit_api_account_password
 
 Edit lines 14-16 with the name of your target subreddit, your desired database filename, and your unique useragent for the Reddit API account.
